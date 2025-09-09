@@ -1,0 +1,16 @@
+{
+    "appName": "Song",
+    "button": {
+        "ok": "Okey",
+        "cancel" : "Cancel",
+        "done" : "Done"
+    },
+    "dialog": {
+        "removeDone" : "Remove Done"
+    },
+    "card": {
+        "releaseDate" : "Release Date",
+        "price" : "Price",
+        "resultsFound" : "{count} number of results found"
+    }
+}

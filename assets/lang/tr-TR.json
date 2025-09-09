@@ -1,0 +1,17 @@
+{
+    "appName": "Song",
+
+    "button": {
+        "ok": "Tamam",
+        "cancel" : "İptal",
+        "done" : "Eminim"
+    },
+    "dialog": {
+        "removeDone" : "Silme Başarılı"
+    },
+    "card": {
+        "releaseDate" : "Yayınlanma Tarihi",
+        "price" : "Ücret",
+        "resultsFound" : "{count} adet sonuç bulundu"
+    }
+}
